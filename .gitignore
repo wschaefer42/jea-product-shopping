@@ -1,0 +1,4 @@
+# Project exclude paths
+/product-service/.gradle/
+/service-discovery/.gradle/
+/service-gateway/.gradle/
